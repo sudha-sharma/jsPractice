@@ -1,0 +1,2 @@
+# jsPractice
+Basics of Javascript
